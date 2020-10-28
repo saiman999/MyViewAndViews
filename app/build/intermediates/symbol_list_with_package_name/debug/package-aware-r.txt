@@ -516,6 +516,7 @@ color button_material_light
 color colorAccent
 color colorPrimary
 color colorPrimaryDark
+color colorSubtitle
 color dim_foreground_disabled_material_dark
 color dim_foreground_disabled_material_light
 color dim_foreground_material_dark
@@ -1258,6 +1259,7 @@ style Base_Widget_AppCompat_Spinner_Underlined
 style Base_Widget_AppCompat_TextView_SpinnerItem
 style Base_Widget_AppCompat_Toolbar
 style Base_Widget_AppCompat_Toolbar_Button_Navigation
+style ButtonGeneral
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_ThemeOverlay_AppCompat
@@ -1341,6 +1343,14 @@ style TextAppearance_Compat_Notification_Title
 style TextAppearance_Widget_AppCompat_ExpandedMenu_Item
 style TextAppearance_Widget_AppCompat_Toolbar_Subtitle
 style TextAppearance_Widget_AppCompat_Toolbar_Title
+style TextContent
+style TextContent_Black
+style TextContent_Small
+style TextContent_Small_White
+style TextContent_Subtitle
+style TextSpec
+style TextSpec_Field
+style TextSpec_Value
 style Theme_AppCompat
 style Theme_AppCompat_CompactMenu
 style Theme_AppCompat_DayNight
